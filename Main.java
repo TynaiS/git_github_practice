@@ -10,6 +10,10 @@ import java.util.stream.Collectors;
 
 // HellO  Tynka
 
+// Hello Bakai
+
+// Hello Kanykei
+
 public class Main {
     public static void main(String[] args) {
         Map<String, Integer> playersList = new HashMap<>();
